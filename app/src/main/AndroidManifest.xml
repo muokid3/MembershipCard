@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.loyalty.cardplanet.membershipcard" >
+
+    <uses-permission android:name="android.permission.NFC" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-feature
+        android:name="android.hardware.nfc"
+        android:required="false" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".RegisterActivity"
+            android:label="@string/title_activity_register" >
+        </activity>
+        <activity
+            android:name=".RedeemActivity"
+            android:label="@string/title_activity_redeem" >
+        </activity>
+        <activity
+            android:name=".PurchaseActivity"
+            android:label="@string/title_activity_purchase" >
+        </activity>
+        <activity
+            android:name=".PinSettings"
+            android:label="Pin Settings" >
+        </activity>
+        <activity
+            android:name=".WriteCardActivity"
+            android:label="@string/title_activity_write_card" >
+        </activity>
+        <activity
+            android:name=".confPurchaseActivity"
+            android:label="@string/title_activity_conf_purchase" >
+        </activity>
+        <activity
+            android:name=".confRedeemActivity"
+            android:label="@string/title_activity_conf_redeem" >
+        </activity>
+        <activity
+            android:name=".ChangePinActivity"
+            android:label="@string/title_activity_change_pin" >
+        </activity>
+        <activity
+            android:name=".ResetPinActivity"
+            android:label="@string/title_activity_reset_pin" >
+        </activity>
+        <activity
+            android:name=".confResetActivity"
+            android:label="@string/title_activity_conf_reset" >
+        </activity>
+        <activity
+            android:name=".CheckPoints"
+            android:label="@string/title_activity_check_points" >
+        </activity>
+        <activity
+            android:name=".MerchantLogin"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".CashPurchaseActivity"
+            android:label="@string/title_activity_cash_purchase" >
+        </activity>
+        <activity
+            android:name=".confCashPurchaseActivity"
+            android:label="@string/title_activity_conf_cash_purchase" >
+        </activity>
+    </application>
+
+</manifest>

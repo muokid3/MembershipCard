@@ -1,0 +1,22 @@
+[18-Sep-2015 03:55:24 America/Chicago] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Empty query in /home/cardplan/public_html/loyalty/AuthUserData.php on line 22
+[18-Sep-2015 03:55:24 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/cardplan/public_html/loyalty/AuthUserData.php on line 26
+[18-Sep-2015 03:59:46 America/Chicago] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Empty query in /home/cardplan/public_html/loyalty/AuthUserData.php on line 22
+[18-Sep-2015 03:59:46 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/cardplan/public_html/loyalty/AuthUserData.php on line 26
+[18-Sep-2015 04:06:41 America/Chicago] PHP Warning:  mysqli::query() [<a href='mysqli.query'>mysqli.query</a>]: Empty query in /home/cardplan/public_html/loyalty/AuthUserData.php on line 22
+[18-Sep-2015 04:06:41 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/cardplan/public_html/loyalty/AuthUserData.php on line 26
+[18-Sep-2015 05:03:44 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/cardplan/public_html/loyalty/AuthUserData.php on line 17
+[18-Sep-2015 05:08:21 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/cardplan/public_html/loyalty/AuthUserData.php on line 17
+[18-Sep-2015 05:10:12 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/cardplan/public_html/loyalty/AuthUserData.php on line 17
+[18-Sep-2015 05:24:00 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/cardplan/public_html/loyalty/AuthUserData.php on line 17
+[18-Sep-2015 05:24:52 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/cardplan/public_html/loyalty/AuthUserData.php on line 17
+[18-Sep-2015 05:25:11 America/Chicago] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/cardplan/public_html/loyalty/AuthUserData.php on line 19
+[18-Sep-2015 05:25:22 America/Chicago] PHP Fatal error:  Call to a member function close() on a non-object in /home/cardplan/public_html/loyalty/AuthUserData.php on line 80
+[18-Sep-2015 09:01:03 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/cardplan/public_html/loyalty/CompletePurchase.php on line 28
+[18-Sep-2015 09:01:06 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/cardplan/public_html/loyalty/CompletePurchase.php on line 28
+[18-Sep-2015 09:01:30 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/cardplan/public_html/loyalty/CompletePurchase.php on line 28
+[18-Sep-2015 09:08:10 America/Chicago] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/cardplan/public_html/loyalty/CompletePurchase.php on line 29
+[01-Oct-2015 05:02:45 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/cardplan/public_html/loyalty/ChangePoints.php on line 38
+[01-Oct-2015 05:02:58 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/cardplan/public_html/loyalty/ChangePoints.php on line 38
+[01-Oct-2015 05:05:05 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/cardplan/public_html/loyalty/ChangePoints.php on line 38
+[01-Oct-2015 16:31:18 Africa/Nairobi] PHP Warning:  Division by zero in /home/cardplan/public_html/loyalty/CompletePurchase.php on line 49
+[01-Oct-2015 16:40:18 Africa/Nairobi] PHP Warning:  Division by zero in /home/cardplan/public_html/loyalty/CompletePurchase.php on line 49
